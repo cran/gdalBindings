@@ -1,8 +1,9 @@
-0549983da37cd4265b65ca8b61f35e44 *DESCRIPTION
+d5fdaf8be48a644ba4eb94543d899c41 *DESCRIPTION
 74092ebd0185e042d963d96a9cb1a6a9 *NAMESPACE
-0fc6c4ca09779566f57cb72b4c80255b *R/gdalBindings.R
+019f204d333674b2cdc547be0aa01b12 *NEWS.md
+2e1e12ea20d7458bf54c4eb6b0c08c5d *R/gdalBindings.R
 729a9360e570f0dd971a2b4b7b407691 *R/zzz.R
-dea794308931a8509fb9de5148b509d0 *README.md
+ecb1ae33456d03556b7ecd5538a96871 *README.md
 8805756d9e3b2a5aae6182ffeac56c3e *cleanup
 3edbf3e366894f2a3ec975d13023828b *configure
 50bb0fc9834643107c4c8b6e41fc79c0 *configure.ac
@@ -17,12 +18,12 @@ fafdb98abb48cbdaf2f13a993ea5bd19 *man/GDALDataset.Rd
 ad2fa8153a971feef6930a83435fb397 *man/GDALRasterBand.Rd
 d0df7f8f0ff8621730a98ebd412632fe *man/close.GDALDataset.Rd
 23c2bfa8fec668a25b0c2552c8c461e6 *man/createDataset.Rd
-971193b86f88d1cfc2e4d41edf9c9a0d *man/formulaCalculate.Rd
+6e2e24db3f6ec73727e20ffa3591e1fc *man/formulaCalculate.Rd
 c14684764ad976dbf0f164a80abf2c26 *man/sub-sub-.GDALDataset.Rd
 2c88f682c70e494e656cf6ff367447ba *man/sub-sub-.GDALRasterBand.Rd
 f73454109a15230646b31729b31e649a *man/sub-subset-.GDALRasterBand.Rd
 4010bacfd782a5c6e08dd17d0a5478c7 *src/Makevars.in
-b705a495f3680c485b3f28d3e97f85e9 *src/Makevars.ucrt
+fda05a28dba2221081b4578c87bf946e *src/Makevars.ucrt
 e5da7a391f2876c97b1ed62cbf511dad *src/RcppExports.cpp
 0fc5495945e2a4463bc7008bf751672b *src/gdal.h
 7c339a7adcc76f3fc99165b1b38df869 *src/rasterizeHDF.cpp
